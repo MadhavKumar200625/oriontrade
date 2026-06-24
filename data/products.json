@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "floral-oils",
+    "name": "Floral Essential Oils",
+    "description": "Soft, calming oils distilled from blossoms and petals for aromatherapy and cosmetic use.",
+    "products": [
+      {
+        "name": "Lavender Essential Oil",
+        "botanicalName": "Lavandula angustifolia",
+        "origin": "Himachal Pradesh, India",
+        "notes": "Fresh floral aroma with a gentle herbal finish.",
+        "uses": ["Aromatherapy", "Skincare blends", "Bath products"],
+        "packSizes": ["10 ml", "30 ml", "100 ml", "1 kg"]
+      },
+      {
+        "name": "Rose Geranium Oil",
+        "botanicalName": "Pelargonium graveolens",
+        "origin": "South India",
+        "notes": "Rosy, green, and slightly citrus-like aroma.",
+        "uses": ["Perfume blends", "Massage oils", "Soap making"],
+        "packSizes": ["10 ml", "50 ml", "250 ml", "1 kg"]
+      }
+    ]
+  },
+  {
+    "slug": "citrus-oils",
+    "name": "Citrus Essential Oils",
+    "description": "Bright and uplifting oils expressed from citrus peels for fragrance and wellness blends.",
+    "products": [
+      {
+        "name": "Sweet Orange Oil",
+        "botanicalName": "Citrus sinensis",
+        "origin": "Nagpur, India",
+        "notes": "Juicy, sweet, and fresh peel aroma.",
+        "uses": ["Room fresheners", "Cosmetic fragrance", "Cleaning blends"],
+        "packSizes": ["10 ml", "30 ml", "100 ml", "5 kg"]
+      },
+      {
+        "name": "Lemon Essential Oil",
+        "botanicalName": "Citrus limon",
+        "origin": "Western India",
+        "notes": "Sharp, sparkling citrus top note.",
+        "uses": ["Diffuser blends", "Natural cleaners", "Soap fragrance"],
+        "packSizes": ["10 ml", "50 ml", "250 ml", "5 kg"]
+      }
+    ]
+  },
+  {
+    "slug": "herbal-oils",
+    "name": "Herbal Essential Oils",
+    "description": "Clean, green, and refreshing oils sourced from leaves, herbs, and aromatic plants.",
+    "products": [
+      {
+        "name": "Peppermint Oil",
+        "botanicalName": "Mentha piperita",
+        "origin": "Uttar Pradesh, India",
+        "notes": "Cool mint aroma with a crisp menthol character.",
+        "uses": ["Balms", "Hair care", "Aromatherapy blends"],
+        "packSizes": ["10 ml", "100 ml", "1 kg", "25 kg"]
+      },
+      {
+        "name": "Eucalyptus Oil",
+        "botanicalName": "Eucalyptus globulus",
+        "origin": "Nilgiri Hills, India",
+        "notes": "Camphoraceous, clean, and refreshing.",
+        "uses": ["Steam blends", "Massage oils", "Wellness products"],
+        "packSizes": ["10 ml", "100 ml", "1 kg", "25 kg"]
+      }
+    ]
+  },
+  {
+    "slug": "spice-wood-oils",
+    "name": "Spice & Wood Oils",
+    "description": "Deep, warm oils for perfumery, incense, wellness blends, and specialty formulations.",
+    "products": [
+      {
+        "name": "Cedarwood Oil",
+        "botanicalName": "Cedrus deodara",
+        "origin": "North India",
+        "notes": "Dry woody aroma with soft balsamic depth.",
+        "uses": ["Perfume base notes", "Beard oils", "Incense blends"],
+        "packSizes": ["10 ml", "50 ml", "1 kg", "10 kg"]
+      },
+      {
+        "name": "Clove Bud Oil",
+        "botanicalName": "Syzygium aromaticum",
+        "origin": "South India",
+        "notes": "Warm, spicy, and intense clove aroma.",
+        "uses": ["Herbal blends", "Soap fragrance", "Specialty formulations"],
+        "packSizes": ["10 ml", "30 ml", "250 ml", "5 kg"]
+      }
+    ]
+  }
+]
