@@ -1,0 +1,210 @@
+[
+  {
+    "id": "floral-oils",
+    "slug": "floral-oils",
+    "name": "Floral Essential Oils",
+    "description": "Soft, calming oils distilled from blossoms and petals for aromatherapy and cosmetic use.",
+    "longDescription": "Our Floral Essential Oils collection features premium oils extracted from the finest blossoms and flower petals. Each oil is carefully distilled to preserve the delicate, calming properties that flowers naturally possess. Perfect for aromatherapy, skincare formulations, and creating luxurious spa blends. Our floral oils are sourced from sustainable farms across India and processed using traditional steam distillation methods to ensure maximum purity and therapeutic benefits.",
+    "image": "/images/categories/floral-oils.png",
+    "icon": "🌸",
+    "primaryColor": "#FFB6C1",
+    "products": [
+      {
+        "id": "lavender-essential-oil",
+        "name": "Lavender Essential Oil",
+        "botanicalName": "Lavandula angustifolia",
+        "origin": "Himachal Pradesh, India",
+        "notes": "Fresh floral aroma with a gentle herbal finish.",
+        "uses": ["Aromatherapy", "Skincare blends", "Bath products"],
+        "packSizes": ["10 ml", "30 ml", "100 ml", "1 kg"]
+      },
+      {
+        "id": "rose-geranium-oil",
+        "name": "Rose Geranium Oil",
+        "botanicalName": "Pelargonium graveolens",
+        "origin": "South India",
+        "notes": "Rosy, green, and slightly citrus-like aroma.",
+        "uses": ["Perfume blends", "Massage oils", "Soap making"],
+        "packSizes": ["10 ml", "50 ml", "250 ml", "1 kg"]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the benefits of floral essential oils?",
+        "answer": "Floral essential oils are known for their calming and relaxing properties. They can help reduce stress, promote better sleep, and are often used in skincare for their nourishing benefits. Each floral oil has unique therapeutic properties suited for different wellness needs. Lavender, for example, is known for relaxation, while Rose Geranium is excellent for skin health and emotional balance."
+      },
+      {
+        "question": "How do I use floral oils in aromatherapy?",
+        "answer": "You can use floral oils in diffusers, add them to carrier oils for massage, mix them into bath water, or blend them into skincare products. Always dilute essential oils with a carrier oil before applying to skin. For diffusers, use 3-5 drops in water. For massage blends, mix 2-3% essential oil with carrier oil like coconut or jojoba oil."
+      },
+      {
+        "question": "Are your floral oils organic?",
+        "answer": "Our oils are sourced from premium suppliers in India known for quality cultivation practices. While we emphasize purity and quality, specific organic certifications can be discussed with our sales team. We ensure minimal pesticide use and sustainable farming methods."
+      },
+      {
+        "question": "How should I store floral essential oils?",
+        "answer": "Store your floral oils in dark glass bottles away from direct sunlight and heat. Keep the bottles tightly sealed and store them in a cool, dry place to preserve their potency and aroma. Proper storage can extend shelf life up to 3 years."
+      },
+      {
+        "question": "What is the shelf life of floral essential oils?",
+        "answer": "Properly stored floral essential oils can last 2-3 years. However, citral-rich floral oils like geranium may oxidize slightly faster. Always check for any changes in aroma or appearance before use. Store away from heat and light for best longevity."
+      }
+    ]
+  },
+  {
+    "id": "citrus-oils",
+    "slug": "citrus-oils",
+    "name": "Citrus Essential Oils",
+    "description": "Bright and uplifting oils expressed from citrus peels for fragrance and wellness blends.",
+    "longDescription": "Experience the invigorating essence of citrus with our collection of premium essential oils. Cold-pressed from the finest citrus fruits grown in India, these oils deliver natural brightness and uplifting energy. Ideal for diffusers, natural cleaning products, and personal care formulations. Our citrus oils are expressed using cold-pressing methods to maintain their vibrant aroma and therapeutic properties.",
+    "image": "/images/categories/citrus-oils.png",
+    "icon": "🍋",
+    "primaryColor": "#FFD700",
+    "products": [
+      {
+        "id": "sweet-orange-oil",
+        "name": "Sweet Orange Oil",
+        "botanicalName": "Citrus sinensis",
+        "origin": "Nagpur, India",
+        "notes": "Juicy, sweet, and fresh peel aroma.",
+        "uses": ["Room fresheners", "Cosmetic fragrance", "Cleaning blends"],
+        "packSizes": ["10 ml", "30 ml", "100 ml", "5 kg"]
+      },
+      {
+        "id": "lemon-essential-oil",
+        "name": "Lemon Essential Oil",
+        "botanicalName": "Citrus limon",
+        "origin": "Western India",
+        "notes": "Sharp, sparkling citrus top note.",
+        "uses": ["Diffuser blends", "Natural cleaners", "Soap fragrance"],
+        "packSizes": ["10 ml", "50 ml", "250 ml", "5 kg"]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Are citrus oils safe for skin application?",
+        "answer": "Citrus oils are phototoxic and can cause skin reactions when exposed to sunlight. Always dilute them with a carrier oil and avoid sun exposure for 12 hours after application. For internal use, consult a healthcare professional. Use a 1-2% dilution for topical application."
+      },
+      {
+        "question": "Can I use citrus oils as natural cleaners?",
+        "answer": "Yes! Citrus oils have natural antimicrobial and degreasing properties. Mix a few drops with water and vinegar to create an effective, eco-friendly cleaning solution for surfaces and floors. Use 10-15 drops per 500ml of solution for best results."
+      },
+      {
+        "question": "What makes citrus oils uplifting?",
+        "answer": "The limonene compound in citrus oils is known for its mood-lifting properties. The fresh, bright aroma stimulates the senses and can help improve focus and energy levels naturally. This makes them perfect for morning diffusion or workspace aromatherapy."
+      },
+      {
+        "question": "How are citrus oils extracted?",
+        "answer": "Our citrus oils are cold-pressed from the peel of fresh citrus fruits. This method preserves the volatile aromatics and therapeutic compounds that might be lost through heat distillation, ensuring maximum potency and authentic aroma."
+      },
+      {
+        "question": "Which citrus oil should I choose for my needs?",
+        "answer": "Sweet Orange is great for mood enhancement and relaxation, while Lemon is better for energy and focus. Both work wonderfully in cleaning products. Choose based on the aroma you prefer and your intended use. You can also blend them for complementary benefits."
+      }
+    ]
+  },
+  {
+    "id": "herbal-oils",
+    "slug": "herbal-oils",
+    "name": "Herbal Essential Oils",
+    "description": "Clean, green, and refreshing oils sourced from leaves, herbs, and aromatic plants.",
+    "longDescription": "Our Herbal Essential Oils bring the fresh essence of nature's most powerful plants. Steam-distilled from premium herbs and aromatic leaves, these oils are packed with therapeutic compounds. Perfect for wellness routines, massage blends, and holistic health practices. Each herbal oil is carefully selected and distilled to maintain its natural potency and therapeutic benefits.",
+    "image": "/images/categories/herbal-oils.png",
+    "icon": "🌿",
+    "primaryColor": "#90EE90",
+    "products": [
+      {
+        "id": "peppermint-oil",
+        "name": "Peppermint Oil",
+        "botanicalName": "Mentha piperita",
+        "origin": "Uttar Pradesh, India",
+        "notes": "Cool mint aroma with a crisp menthol character.",
+        "uses": ["Balms", "Hair care", "Aromatherapy blends"],
+        "packSizes": ["10 ml", "100 ml", "1 kg", "25 kg"]
+      },
+      {
+        "id": "eucalyptus-oil",
+        "name": "Eucalyptus Oil",
+        "botanicalName": "Eucalyptus globulus",
+        "origin": "Nilgiri Hills, India",
+        "notes": "Camphoraceous, clean, and refreshing.",
+        "uses": ["Steam blends", "Massage oils", "Wellness products"],
+        "packSizes": ["10 ml", "100 ml", "1 kg", "25 kg"]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are herbal oils used for?",
+        "answer": "Herbal oils are versatile for wellness, aromatherapy, massage blends, and topical applications. They're known for their therapeutic properties like cooling sensation, respiratory support, and muscle relaxation. Peppermint is excellent for digestion and alertness, while Eucalyptus supports respiratory health."
+      },
+      {
+        "question": "Is peppermint oil safe for children?",
+        "answer": "Peppermint oil is potent and should be used cautiously around children. Always dilute properly and consult a healthcare provider before using with children under 6 years old. For older children, use highly diluted solutions (less than 1%)."
+      },
+      {
+        "question": "Can I use eucalyptus oil for respiratory support?",
+        "answer": "Eucalyptus oil is traditionally used for respiratory wellness. It can be diffused, added to steam inhalation, or diluted and used in massage. Always consult with a healthcare professional before use, especially if you have respiratory conditions."
+      },
+      {
+        "question": "How do herbal oils differ from floral oils?",
+        "answer": "Herbal oils come from leaves and plant stems with clean, green profiles, while floral oils come from flowers with softer, sweeter notes. Herbal oils tend to be more stimulating and grounding, while floral oils are typically more calming and gentle."
+      },
+      {
+        "question": "What is the best way to use herbal oils in daily life?",
+        "answer": "The best way depends on the oil. Try diffusing for aromatherapy, adding to bath water, mixing with carrier oils for massage, or using in personal care formulations. Start with small amounts to gauge your preference and response. Always patch test before full application."
+      }
+    ]
+  },
+  {
+    "id": "spice-wood-oils",
+    "slug": "spice-wood-oils",
+    "name": "Spice & Wood Oils",
+    "description": "Deep, warm oils for perfumery, incense, wellness blends, and specialty formulations.",
+    "longDescription": "Discover the rich, complex world of Spice & Wood Oils. These warm, grounding oils are extracted from premium spices and aromatic woods from across India. Perfect for creating sophisticated fragrances, incense blends, and deep wellness formulations that provide warmth and comfort. Our spice and wood oils are carefully selected for their superior quality and therapeutic benefits.",
+    "image": "/images/categories/spice-wood-oils.png",
+    "icon": "🌲",
+    "primaryColor": "#8B4513",
+    "products": [
+      {
+        "id": "cedarwood-oil",
+        "name": "Cedarwood Oil",
+        "botanicalName": "Cedrus deodara",
+        "origin": "North India",
+        "notes": "Dry woody aroma with soft balsamic depth.",
+        "uses": ["Perfume base notes", "Beard oils", "Incense blends"],
+        "packSizes": ["10 ml", "50 ml", "1 kg", "10 kg"]
+      },
+      {
+        "id": "clove-bud-oil",
+        "name": "Clove Bud Oil",
+        "botanicalName": "Syzygium aromaticum",
+        "origin": "South India",
+        "notes": "Warm, spicy, and intense clove aroma.",
+        "uses": ["Herbal blends", "Soap fragrance", "Specialty formulations"],
+        "packSizes": ["10 ml", "30 ml", "250 ml", "5 kg"]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the best uses for spice and wood oils?",
+        "answer": "These oils excel in perfumery as base notes, incense blends, beard care products, and sophisticated wellness formulations. They provide depth, warmth, and longevity to any blend. Spice and wood oils are also popular in home fragrance and traditional wellness practices."
+      },
+      {
+        "question": "How do I use cedarwood oil?",
+        "answer": "Cedarwood can be diffused for grounding aromatherapy, used in beard oil blends (1-2% dilution), added to massage oils for relaxation, or incorporated into incense formulations for a warm, woody ambiance. It pairs well with other essential oils for complex blends."
+      },
+      {
+        "question": "Is clove oil suitable for sensitive skin?",
+        "answer": "Clove oil is highly concentrated and can irritate sensitive skin. Always dilute well with a carrier oil (1-2% dilution) before topical application, and perform a patch test first. For sensitive individuals, start with lower concentrations."
+      },
+      {
+        "question": "Can spice and wood oils be blended together?",
+        "answer": "Absolutely! Cedarwood and Clove blend beautifully, creating a warm, complex fragrance profile. Experiment with different ratios to create your signature scent. Both oils also blend well with citrus and herbal oils for unique combinations."
+      },
+      {
+        "question": "How do spice and wood oils support wellness?",
+        "answer": "These oils are grounding and warming. They're traditionally used to support circulation, reduce inflammation, and promote emotional grounding and balance when used in wellness practices. They're particularly valued in Ayurvedic and traditional medicine formulations."
+      }
+    ]
+  }
+]
