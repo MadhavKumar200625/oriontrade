@@ -17,6 +17,10 @@ export const metadata = {
   title: "Orion Trade Natural Oils",
   description:
     "A static showcase website for a business selling essential oils and natural oil products.",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({ children }) {

@@ -13,11 +13,20 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-[#dfe8de] bg-white/95 backdrop-blur">
       <div className="mx-auto flex max-w-7xl flex-col gap-4 px-5 py-4 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
-        <Link href="/" className="w-fit">
-          <span className="block text-xl font-semibold tracking-[0.08em] text-[#164b35] uppercase">
-            Orion Trade
-          </span>
-          <span className="block text-sm text-[#58705f]">Natural essential oils</span>
+        <Link href="/" className="flex items-center gap-3 w-fit" aria-label="Orion Trade home">
+          <img
+            src="/logo.png"
+            alt="Orion Trade"
+            width={160}
+            height={60}
+            className="h-10 w-auto sm:h-12 md:h-14"
+          />
+          <div>
+            <span className="block text-lg font-semibold tracking-[0.08em] text-[#164b35] uppercase">
+              Orion Trade
+            </span>
+            <span className="block text-xs text-[#58705f]">Natural essential oils</span>
+          </div>
         </Link>
 
         <nav className="flex flex-wrap items-center gap-2 text-sm font-medium text-[#263b2f]">
